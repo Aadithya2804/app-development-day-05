@@ -1,0 +1,27 @@
+.client{
+    background-color: aquamarine;
+    height:100vh;
+    width:100%;
+    background-attachment: fixed;
+    display: flex;
+}
+#next
+{
+    margin-top: 400px;
+    margin-left:150px ;
+}
+#title
+{
+    width:400px;
+    height:40x;
+    margin-left: 100px;
+}
+#showcontent
+{
+    /* transition: 2s; */
+    display:block;
+    width:500px;
+    height:600px;
+    /* background-color: lavender; */
+    color:indigo
+}

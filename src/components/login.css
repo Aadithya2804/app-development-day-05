@@ -1,0 +1,17 @@
+.main{
+    background-image: url("file:///C:/Users/admin/Desktop/mini/src/pictures/logo.jpeg");
+    height: 100vh;
+}
+.login
+{
+    background-color: beige;
+    height:400px;
+    width:300px;
+    padding:20px;
+    margin-left:800px;
+    border-radius:10px;
+    border-color:pink;
+}
+
+
+
